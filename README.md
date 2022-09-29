@@ -19,6 +19,7 @@
   ![Dotnet](https://img.shields.io/badge/-dotnet-333333?style=flat&logo=dotnet)
 - 🛢 &nbsp;
   ![MongoDB](https://img.shields.io/badge/-MongoDB-333333?style=flat&logo=mongodb)
+  [Psql](https://img.shields.io/badge/-psql-333333?style=flat&logo=psql)
 - ⚙️ &nbsp;
   ![Git](https://img.shields.io/badge/-Git-333333?style=flat&logo=git)
   ![GitHub](https://img.shields.io/badge/-GitHub-333333?style=flat&logo=github)
