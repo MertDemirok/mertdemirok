@@ -4,8 +4,8 @@
 
 <h3> 💻 &nbsp;About Me </h3>
 
-- 🎓 &nbsp; I'm Software Engineer
-- 🤔 &nbsp; My extensive experience with  developing websites and backend systems using Nodejs (express, Fastify, mongoose … ), C#, and vue.js. In addition, my background with working in large development teams has given me the skills to adjust to the changing dynamics and processes of those environments while meeting scheduled milestones and deliverables.
+  🎓 &nbsp; I'm Software Engineer
+  🤔 &nbsp; My extensive experience with  developing websites and backend systems using Nodejs (express, Fastify, mongoose … ), C#, and vue.js. In addition, my background with working in large development teams has given me the skills to adjust to the changing dynamics and processes of those environments while meeting scheduled milestones and deliverables.
 
 
 <h3> 🛠 &nbsp;Tech Stack</h3>
